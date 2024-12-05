@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18925639fa05405486ffd586ac77fdea, type: 3}
+  m_Name: Copper Dagger
+  m_EditorClassIdentifier: 
+  weaponName: Copper Dagger
+  weaponSprite: {fileID: 21300000, guid: d42ce9f4ced66db4d9ef5d2c0e573f2d, type: 3}
+  weaponPrefab: {fileID: 8752279274997195084, guid: 86b91f36eafb63748916d58b7c406285, type: 3}
+  baseStats:
+    damage: 10
+    attackSpeed: 1.5
+    range: 0.8
+    criticalChance: 15
+    criticalMultiplier: 1.5
+  weaponCategory: 1
+  subcategoryIndex: 7
